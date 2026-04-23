@@ -11,9 +11,9 @@ Using **Python**, I develop tools and models that investigate complex energy pro
 
 
 ### 🌱 My Milestone Projects:
-* **Kernel-Ridge Regression :** Designing a Kernel-Ridge Regression algorithm 
+* **Kernel-Ridge Regression (Kernel Ridge Regression)[https://github.com/ondreagray/Kernel-Ridge-Regression]:** Designing a Kernel-Ridge Regression algorithm 
 * **Wavelet Edge Detection and Denoising Techniques (Link):** Creating an image edge detection algorithm utilizing three techniques to reduce noise and perform edge detection on increasingly noisy images. 
-* **Fluid Simulation Over Different Timescales [fluid-dynamics-sim](https://github.com/ondreagray/fluid-dynamics-sim):** Simulating the Navier-Stokes equations using different initial conditions. Utilizes, scipy.integrate, finite difference methods and the Fast Fourier Transform (FFT).
+* **Fluid Simulation Over Different Timescales [Fluid Dynamics Simulator](https://github.com/ondreagray/fluid-dynamics-sim):** Simulating the Navier-Stokes equations using different initial conditions. Utilizes, scipy.integrate, finite difference methods and the Fast Fourier Transform (FFT).
   
 ### 🛠️ Tech Stack:
 * **Languages:** Python (Primary)

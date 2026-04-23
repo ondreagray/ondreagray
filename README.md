@@ -7,7 +7,7 @@ Using **Python**, I develop tools and models that investigate complex energy pro
 ---
 
 ### 🔭 I’m currently working on: 
-* **Two-Stage Power System Optimization:** A model incorporating uncertainty for power systems, currently simplified to a single-bus case to test the effect of differnet strategies in worst case scenarios.
+* **Two-Stage Power System Optimization:** A model incorporating uncertainty for power systems, currently simplified to a single-bus case to test the effect of different strategies in worst case scenarios.
 
 
 ### 🌱 My Milestone Projects:

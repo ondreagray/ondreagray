@@ -1,6 +1,6 @@
 # ⚡ Power System Optimization & Machine Learning
 
-Welcome to my project portfolio! This repository showcases my work in **optimization, data analysis, and machine learning**, with a primary focus on **power system simulation**. 
+My name is Ondrea Robinson and welcome to my project portfolio! I am a graduate student in Applied Math at the University of Washington and my research focuses on power systems. This repository showcases my work in **optimization, data analysis, and machine learning**, with a primary focus on **power system simulation**. 
 
 Using **Python**, I develop tools and models that investigate complex energy problems and grid optimization. Below, you will find a record of my evolving technical skills and my latest research projects. Thanks for stopping by!
 

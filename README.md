@@ -13,7 +13,7 @@ Using **Python**, I develop tools and models that investigate complex energy pro
 ### 🌱 My Milestone Projects:
 * **Energy Storage Optimization on Discrete Timescales under Increasing Constraints** - [Energy Storage Optimization](https://github.com/ondreagray/Energy-Storage-Optimization)
 * **Kernel-Ridge Regression to Forecast Load Profiles** - [Kernel Ridge Regression](https://github.com/ondreagray/krr_load_modelling)
-* **Fluid Simulation Over Different Timescales** - [Fluid Dynamics Simulator](https://github.com/ondreagray/fluid-dynamics-sim) 
+* **Single Bus Two-Stage Optimization Model** - [Single Buse Model](https://github.com/ondreagray/single_bus_model) 
 ### 🛠️ Tech Stack:
 * **Languages:** Python (Primary)
 * **Libraries:** Pyomo, NumPy, Pandas, SciPy Scikit-learn, Matplotlib
